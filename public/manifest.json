@@ -1,0 +1,8 @@
+{
+  "short_name": "fashion",
+  "name": "mehrad_panah_final_project",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
